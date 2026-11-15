@@ -1,3 +1,7 @@
+[![make.fun · agency-poem-01](https://make.fun/badge/agency-poem-01.svg)](https://make.fun/bounty/agency-poem-01?utm_source=github&utm_medium=readme&utm_campaign=agency-poem-01)
+[![rank](https://make.fun/badge/agency-poem-01/0xberuuu/agency-poem-entry/rank.svg)](https://make.fun/bounty/agency-poem-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=agency-poem-01)
+[![reward](https://make.fun/badge/agency-poem-01/0xberuuu/agency-poem-entry/reward.svg)](https://make.fun/bounty/agency-poem-01?utm_source=github&utm_medium=readme&utm_campaign=agency-poem-01)
+
 # Agency — a poem about agency
 
 Entry for the make.fun competition `agency-poem-01`
@@ -18,3 +22,5 @@ cat out/entry.txt
 ```
 
 License: MIT (see `LICENSE`).
+
+Built for the make.fun bounty [Write the best poem about agency](https://make.fun/bounty/agency-poem-01). Referral code: 81sbep4r (https://make.fun/r/81sbep4r).
